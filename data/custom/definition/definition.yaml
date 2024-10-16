@@ -3,6 +3,8 @@ Test and Verification:
     Simple false positive treatment:
   Static depth for applications:
     Software Composition Analysis (server side):
+      assessment: |-
+        MTTR must be lower than 7 days for severity high/critical.
   Application tests:
     Security unit tests for important components:
       level: 1
